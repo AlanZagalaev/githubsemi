@@ -29,3 +29,4 @@
 
 > *git branch [branch_name]* - создать ветку с названием branch_name
 
+> **git checkout **[branch_name]** - переход к другой ветке
