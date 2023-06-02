@@ -29,5 +29,7 @@
 
 > *git branch [branch_name]* - создать ветку с названием branch_name
 
+> *git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
+
 > **git checkout **[branch_name]** - переход к другой ветке
 > *git branch -d [branch_name] - удалить ветку под названием branch_name
