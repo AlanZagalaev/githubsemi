@@ -33,3 +33,5 @@
 
 > **git checkout **[branch_name]** - переход к другой ветке
 > *git branch -d [branch_name] - удалить ветку под названием branch_name
+
+> # Основные команды 3-го семинара
